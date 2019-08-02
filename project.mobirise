@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "dds",
-    "currentPage": "index.html",
+    "currentPage": "bots.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2258,7 +2258,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "closed-earlyalpha application bot. who needs google forms and stuff anyway?",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://discordapp.com/api/oauth2/authorize?client_id=558689453573406771&amp;permissions=152431681&amp;redirect_uri=https%3A%2F%2Finvite.gg%2Febot&amp;scope=bot\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">website</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://dragdevstudios-discord.gitbook.io/support-docs/yourapps/yourapps-docs\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">docs</a> ",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"http://dragdev.xyz/ya\" data-toolbar=\"-mbrBtnMove\">website</a> <a data-app-btn=\"true\" class=\"btn display-4 btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://dragdevstudios-discord.gitbook.io/support-docs/yourapps/yourapps-docs\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">docs</a> ",
                 "overlayOpacity": "0.8"
               },
               {
