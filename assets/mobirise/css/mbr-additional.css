@@ -4361,6 +4361,13 @@ body {
 .cid-rxWyIOKU2M {
   background: linear-gradient(45deg, #00ff53, #073b4c);
 }
+.cid-rxWyIOKU2M H1 {
+  color: #232323;
+}
+.cid-rxWyIOKU2M .mbr-text,
+.cid-rxWyIOKU2M .mbr-section-btn {
+  color: #232323;
+}
 .cid-rx53mtp1m7 {
   padding-top: 30px;
   padding-bottom: 30px;
