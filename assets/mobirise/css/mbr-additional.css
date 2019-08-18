@@ -5371,6 +5371,7 @@ body {
   margin: 0 auto;
   align-items: stretch;
   -webkit-align-items: stretch;
+  width: 100% !important;
 }
 .cid-rzvPndOzSp .media-container-row .img-item {
   display: -webkit-flex;
